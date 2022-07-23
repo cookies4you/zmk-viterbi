@@ -4,7 +4,7 @@
  * SPDX-License-Identifier: MIT
  */
  
-#include "viterbi.dtsi"
+#include "bfo9000.dtsi"
 
 &kscan0 {
     col-gpios
